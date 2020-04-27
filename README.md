@@ -5,6 +5,6 @@ swing ui and a sqlite database junction, and was made for demonstration purposes
 
 # KNOWN LIMITATIONS
 - Missing dependency manager, right now all libs are added to the git repository
-- Text db file is also added to the repository (should be created if missing)
+- db data file is also added to the repository (should be created if missing)
 - Missing tests
 - Probably more...
